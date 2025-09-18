@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button-enhanced';
 import { LogOut, User, Sparkles } from 'lucide-react';
 
 export const Navigation = () => {
-  const { user, logout, isAuthenticated } = useAuth();
+  const { logout, isAuthenticated } = useAuth();
   const location = useLocation();
 
   const isActive = (path: string) => location.pathname === path;

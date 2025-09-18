@@ -9,7 +9,8 @@ export default defineConfig({
   plugins: [react(), cloudflare()],
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "src/react-app/"),
+      "@": path.resolve(__dirname, "./src/react-app"),
+      "@/": path.resolve(__dirname, "./src/react-app") + path.sep,
     },
   },
 });

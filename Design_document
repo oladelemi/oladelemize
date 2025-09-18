@@ -1,0 +1,68 @@
+Oyè — Personalized Grooming Subscriptions
+
+What: Custom beard & hair-oil subscription with a short quiz to create “personal blends” and seasonal boxes.
+
+Market: Male grooming, premium niche.
+
+Why fit: You already have Oyè brand direction.
+
+Revenue: Subscription + limited-edition drops.
+
+1-line MVP: Quiz → three blend presets → checkout + monthly ship.
+
+Stackz (you already suggested) — Stock & Options Recommendation Suite
+
+What: Signal-driven recommendations with options strategies, risk-sim comparisons, and trade journaling.
+
+Market: retail traders, semi-pros.
+
+Why fit: You’ve expressed this idea; you also have backend/infra skills.
+
+Revenue: Freemium signals + paid strategies + API.
+
+TrendIt (your idea) — Breakout Trend Finder
+
+What: Aggregates social, search, and on-chain signals to surface rising micro-trends and product opportunities.
+
+Market: creators, product teams, marketers.
+
+Revenue: seats/alerts + enterprise feed.
+
+1-line MVP: Twitter + Google Trends scrape → daily “Top 10 breakout keywords” email.
+Beamer — Wedding POV Photo Upload & Guest Album
+
+What: Mobile-first app for wedding guests to take/upload photos tagged by timeline/location, auto-curated album + print-ready layouts.
+
+Market: couples, photographers.
+
+Why fit: You’re building wedding guestbook/photo features already.
+
+Revenue: one-off album purchases + pro upgrades for photogs.
+
+MVP: single-event upload page + live album + download zip.
+TinyTown — Micro-Community Event & Skill Swap Platform
+What: Hyperlocal app where neighbors trade skills (guitar lesson for garden help) with reputation and escrow.
+Gap: Neighborhood barter exists in fragmented places — lacks trust and simple tools.
+Why you: You can build secure escrow + reputation systems quickly.
+MVP: City neighborhood group with 50 users, simple listings and swaps.
+
+RecallDeck — Personal Knowledge Flashcards from Your Files
+What: Ingest your notes, docs, transcripts and auto-generate spaced-repetition flashcards with context links.
+Gap: Knowledge workers accumulate notes but never retain them.
+Why you: Infra + NLP pipelines to convert docs → quizable cards.
+MVP: Upload folder → review deck of 50 cards.
+ParkPulse — Real-Time Urban Micro-Parking Availability
+What: Aggregates sensor/phone-drive patterns and user reports to show likely curbside parking spots in busy neighborhoods.
+Gap: Last-mile parking is chaotic; existing apps aren’t hyperlocal enough.
+Why you: Real-time data pipeline skillset.
+MVP: One neighborhood, crowd-sourced reporting + probability map.
+ARFitMirror — Low-cost Form-Correction Feedback via Phone
+What: Use phone camera + lightweight pose estimation to give simple form correction for lifts and squats, focusing on safety cues.
+Gap: People learn bad form and injure themselves; gyms are expensive.
+Why you: ML interest and fitness background.
+MVP: App that detects squat depth and flags 3 form errors.
+FleetFit — Small Business Vehicle Maintenance Forecasting
+What: Predictive maintenance scheduler for small fleets (couriers, landscapers) using mileage + calendar-based demand modeling.
+Gap: Small fleets lose revenue to downtime and over-maintenance.
+Why you: Build ML forecasting + scheduling automation.
+MVP: Upload vehicle log → maintenance calendar + alert system.

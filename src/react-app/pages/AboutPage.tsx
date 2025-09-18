@@ -12,6 +12,7 @@ import {
   ArrowRight
 } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import founder from '@/assets/bash.jpg';
 
 export const AboutPage = () => {
   return (
@@ -27,7 +28,7 @@ export const AboutPage = () => {
           </h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Bridging the gap between innovative product concepts and market reality. 
-            Oladelemi is where tomorrow's ideas meet today's opportunities.
+            Oladelemi is where our founder's ideas meet today's opportunities.
           </p>
         </div>
 
@@ -62,8 +63,8 @@ export const AboutPage = () => {
               <CardContent>
                 <p className="text-muted-foreground leading-relaxed">
                   A world where innovative ideas don't remain just concepts, but become the products 
-                  and services that shape our future. We envision Oladelemi as the premier destination 
-                  for discovering and developing the next generation of breakthrough products.
+                  and services that shape our future. I envision Oladelemi as the premier destination 
+                  for discovering and developing a new generation of breakthrough products.
                 </p>
               </CardContent>
             </Card>
@@ -136,16 +137,16 @@ export const AboutPage = () => {
               <CardContent>
                 <p className="text-muted-foreground leading-relaxed mb-4">
                   Oladelemi brings together a diverse community of innovators, entrepreneurs, 
-                  investors, and industry experts. Our members share a common passion for 
+                  and industry experts. Our teams share a common passion for 
                   breakthrough products and transformative ideas.
                 </p>
                 <div className="grid grid-cols-2 gap-4 text-sm">
                   <div className="text-center p-3 bg-primary/5 rounded-lg">
-                    <div className="font-bold text-primary text-lg">500+</div>
+                    <div className="font-bold text-primary text-lg">7+</div>
                     <div className="text-muted-foreground">Members</div>
                   </div>
                   <div className="text-center p-3 bg-accent/10 rounded-lg">
-                    <div className="font-bold text-accent text-lg">50+</div>
+                    <div className="font-bold text-accent text-lg">9</div>
                     <div className="text-muted-foreground">Products</div>
                   </div>
                 </div>
@@ -184,9 +185,9 @@ export const AboutPage = () => {
             <Card className="shadow-premium">
               <CardContent className="p-8">
                 <div className="w-24 h-24 bg-primary/10 rounded-full mx-auto mb-6 flex items-center justify-center">
-                  <Users className="h-12 w-12 text-primary" />
+                  <img src={founder} alt="Founder" className="w-24 h-24 rounded-full object-cover" />
                 </div>
-                <h3 className="text-xl font-semibold mb-2">Oladelemi Founder</h3>
+                <h3 className="text-xl font-semibold mb-2">Bash Oladelemi</h3>
                 <p className="text-muted-foreground mb-4">Product Innovator & Entrepreneur</p>
                 <p className="text-muted-foreground leading-relaxed">
                   A passionate product strategist with a track record of identifying market opportunities 
